@@ -4,5 +4,3 @@ from django.shortcuts import render
 
 
 
-def testview():
-    return "Test"
