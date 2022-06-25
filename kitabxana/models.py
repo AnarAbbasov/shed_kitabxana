@@ -12,6 +12,8 @@ class Note(models.Model):
     user"""
     #id=models.AutoField(auto_created = True)
     note=models.CharField(max_length=500)
+    date=models.DateField()
     user=models.CharField(max_length=20)
+    
 
 

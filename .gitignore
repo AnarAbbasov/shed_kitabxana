@@ -1,4 +1,4 @@
-db.sqlite3
+#db.sqlite3
 shedsite/__pycache__/__init__.cpython-310.pyc
 shedsite/__pycache__/settings.cpython-310.pyc
 shedsite/__pycache__/urls.cpython-310.pyc
