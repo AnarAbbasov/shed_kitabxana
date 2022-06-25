@@ -55,7 +55,7 @@ ROOT_URLCONF = 'shedsite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['C:\\Users\\anar_\\OneDrive\\docs\\GitHub\\my_code\\shed_kitabxana\\kitabxana\\templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
